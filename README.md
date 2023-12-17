@@ -1,4 +1,4 @@
 # mariakasmani-demo
 this is my 1st git respository
 <br>
-author-maria kasmani
+author-maria (cool) kasmani
